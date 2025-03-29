@@ -1,0 +1,22 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API tutorial project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraltapam/node-rest-shop.git"
+  },
+  "author": "Pamela Peralta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peraltapam/node-rest-shop/issues"
+  },
+  "homepage": "https://github.com/peraltapam/node-rest-shop#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
